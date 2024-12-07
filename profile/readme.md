@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="https://storyanvil.github.io/StoryAnvil.svg" height="250">
+  <img alt="" src="https://storyanvil.github.io/assets/StoryAnvil.svg" height="250">
   <br>
   <a href="https://storyanvil.github.io?from=orgprofile">🗒️ Website</a>
 </p>
